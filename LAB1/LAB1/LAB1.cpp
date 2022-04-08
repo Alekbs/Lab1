@@ -7,5 +7,5 @@ int main()
     cout << "Hello World!\n";
     cout << "Привет, мир\n";
     cout << "Введите число\n";
-   
+    cin >> a;
 }
