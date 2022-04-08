@@ -9,4 +9,5 @@ int main()
     cout << "Введите число\n";
     cin >> a;
     cout << "Вы ввели " << a << endl;
+    cout << a << "^2 = " << a * a;
 }
